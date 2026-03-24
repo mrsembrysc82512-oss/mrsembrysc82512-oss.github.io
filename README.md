@@ -15,7 +15,9 @@
 ## 🚀 About Me 
 I'm a data analyst with a background in healthcare passionate about making sense of data to make a difference in both patient care and employee workflow processes. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help plan for the future.
+My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help plan for the future. I am very excited to take the knowledge and experience that I have gained in the healthcare field and apply that to data analysis.
+
+I have also always enjoyed research and would love the chance to be involved with a research team.
 
 When I'm not working with data, I enjoy hiking, walking with my dogs, baking, gardening, and hanging out with my family. I love the "aha!" moment when data reveals something new and useful.
 
