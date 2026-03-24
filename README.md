@@ -3,7 +3,7 @@
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Healthcare+Data];[Research]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Healthcare+Data;Research" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
@@ -13,25 +13,25 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I'm a data analyst with a background in healthcare passionate about making sense of data to make a difference in both patient care and employee workflow processes. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help plan for the future.
 
-When I'm not working with data, I enjoy [hiking, walking with my dogs, baking, gardening, and hanging out with my family]. I love the "aha!" moment when data reveals something new and useful.
+When I'm not working with data, I enjoy hiking, walking with my dogs, baking, gardening, and hanging out with my family. I love the "aha!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://mrsembrysc82512-oss3.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
-- **Data Cleaning in SQL:** [Cleaned raw housing data in SQL to make it more suitable for analysis.]  
-- **Data Exploration in SQL:** [Utilized SQL to explore a Covid 19 dataset.]
-- **Tableau Dashboard:** [Created a Tableau dashboard to showcase insights into an AirBnB dataset.]
+- **Data Cleaning in SQL:** Cleaned raw housing data in SQL to make it more suitable for analysis.  
+- **Data Exploration in SQL:** Utilized SQL to explore a Covid 19 dataset.
+- **Tableau Dashboard:** Created a Tableau dashboard to showcase insights into an AirBnB dataset.
 
 ## 🌱 Currently Learning 
 
-- [Advanced SQL, Power BI, Tableau, and Python.]
-- [Utilizing AI in data analysis.]
+- Advanced SQL, Power BI, Tableau, and Python.
+- Utilizing AI in data analysis.
 
 #### Data Analysis & Visualization
 <p>
